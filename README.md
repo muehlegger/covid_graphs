@@ -4,7 +4,7 @@ Plots some figures that contain information about new confirmed COVID-19 cases i
 
 Program Version from 06-2020. Needs revision an adjustments.
 
-<img src="images/image_1.png" width="450">
+<img src="images/image_1.png" width="650">
 <BR/>
 
-<img src="images/image_2.png" width="450">
+<img src="images/image_2.png" width="650">
